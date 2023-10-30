@@ -1,0 +1,6 @@
+/target/
+src/test/java/regressionScripts/
+files/autoit
+../.settings/
+../.settings/
+src/main/java/com/epam/reportportal/example/cucumber6/attributes/TestLinkIntegration.java
